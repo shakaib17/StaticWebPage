@@ -1,0 +1,2 @@
+# StaticWebPage
+Exploring Azure
