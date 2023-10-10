@@ -22,15 +22,7 @@
             <h2>About Us</h2>
             <p>Hello World </p>
         </section>
-        
-        <section>
-            <h2>Our Services</h2>
-            <ul>
-                <li>Service 1</li>
-                <li>Service 2</li>
-                <li>Service 3</li>
-            </ul>
-        </section>
+      
     </main>
     
     <footer>
